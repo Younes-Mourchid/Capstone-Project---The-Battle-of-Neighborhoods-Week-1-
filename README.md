@@ -1,0 +1,2 @@
+# Capstone-Project---The-Battle-of-Neighborhoods-Week-1-
+New Delhi is the capital city of India. It is a part of the city of Delhi’s 11 districts. The city itself has a population of 257,803. However, the much larger metro area has a population that exceeds 26 million. With its diverse culture , comes diverse food items. There are many restaurants in New Delhi City, each belonging to different categories like Chinese , Italian , French etc. So as part of this project , we will list and visualize all major parts of New Delhi City .
